@@ -10,7 +10,7 @@
 #define    FL_ONGROUND    (1<<9)
 #define PLUGIN "XMenu"
 #define VERSION "1.0"
-#define AUTHOR "Xhonor"
+#define AUTHOR "Ayrat"
 #define XSPEED 350.0
 
 new g_bunny[33]
